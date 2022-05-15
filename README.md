@@ -12,4 +12,7 @@ Groupmates: Shiddharath Patel, Sankalp Patel
 #####
 [Final Video](https://youtu.be/BI2hOSQGou4)
 
+# Sources
+[BasketBall Reference](https://www.basketball-reference.com/)
 
+[Youtube Tutorial](https://www.youtube.com/watch?v=JGQGd-oa0l4)
