@@ -4,7 +4,7 @@ MVP and ROTY Predictor
 ######
 Groupmates: Shiddharath Patel, Sankalp Patel
 
-########
+######
 [Summary](./Summary/FinalProjectSummary.pdf)
 
 #####
