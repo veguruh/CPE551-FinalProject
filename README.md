@@ -1,5 +1,5 @@
 # CPE551-FinalProject
-MVP and ROTY Predictor 
+NBA Most Valuable Player and Rookie of the Year Predictor 
 ####
 For our final project, we used Jupyter Notebook to construct an application that could predict who would win the two distinct NBA awards: Most Valuable Player (MVP) and Rookie of the Year (ROTY).
 
